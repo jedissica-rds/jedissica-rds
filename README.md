@@ -1,9 +1,3 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jedissica-rds.jedissica-rds&"  />
-</div>
-
-###
-
 <h3 align="left">Olá, sou a Jessica! 👋</h3>
 
 ###
