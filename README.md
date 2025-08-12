@@ -1,10 +1,10 @@
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jedissica-rds.jedissica-rds&"  />
 </div>
 
 ###
 
-<h2 align="left">Olá, sou a Jessica! 👋</h2>
+<h3 align="center">Olá, sou a Jessica! 👋</h3>
 
 ###
 
@@ -41,8 +41,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jedissica-rds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="240" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jedissica-rds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="240" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jedissica-rds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
