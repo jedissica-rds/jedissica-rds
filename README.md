@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jedissica-rds.jedissica-rds&"  />
 </div>
 
 ###
 
-<h3 align="center">Olá, sou a Jessica! 👋</h3>
+<h3 align="left">Olá, sou a Jessica! 👋</h3>
 
 ###
 
@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
