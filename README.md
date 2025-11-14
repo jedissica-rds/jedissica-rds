@@ -1,12 +1,15 @@
-<h3 align="left">Olá, sou a Jessica! 👋</h3>
+<h3 align="left">Hello, i'm Jessica! 👋</h3>
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação, formada em curso técnico de Informática e atualmente faço parte da Apple Developer Academy.</p>
+<p align="left">I am an Information Systems student, graduated from a technical program in IT, and I am currently part of the Apple Developer Academy.</p>
 
 ###
 
-<p align="left">- 🔭 Sou estudante da Apple Developer Academy.<br>- 📚 Estou aprendendo Flutter, Unity e Kotlin</p>
+<p align="left">
+  - 🔭 I am a student at the Apple Developer Academy.<br>
+  - 📚 I am currently learning Flutter, Unity, and Kotlin.
+</p>
 
 ###
 
