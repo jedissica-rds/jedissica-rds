@@ -1,8 +1,6 @@
-<h3 align="left">Hello, i'm Jessica! 👋</h3>
+<h3 align="left">Olá, eu sou a Jessica! 👋</h3>
 
 ###
-
-<h3 align="left">Olá, eu sou a Jessica! 👋</h3>
 <p align="left">Sou estudante de Sistemas de Informação, formada em um curso técnico de Informática e atualmente faço parte da Apple Developer Academy.</p>
 <p align="left"> - 🔭 Sou estudante da Apple Developer Academy.<br> - 📚 Atualmente estou aprendendo Flutter, Unity e Kotlin. </p>
 
