@@ -2,7 +2,7 @@
 
 ###
 <p align="left">Sou estudante de Sistemas de Informação, formada em um curso técnico de Informática e atualmente faço parte da Apple Developer Academy.</p>
-<p align="left"> - 🔭 Sou estudante da Apple Developer Academy.<br> - 📚 Atualmente estou aprendendo Flutter, Unity e Kotlin. </p>
+<p align="left"> 📚 Atualmente estou aprendendo Flutter, Unity e Kotlin. </p>
 
 ###
 
