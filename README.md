@@ -1,7 +1,7 @@
 <h3 align="left">Olá, eu sou a Jessica! 👋</h3>
 
 ###
-<p align="left">Sou estudante de Sistemas de Informação, formada em um curso técnico de Informática e atualmente sou residente em AR/VR no Insituto Eldorado.</p>
+<p align="left">Sou estudante de Sistemas de Informação na Universidade do Estado do Amazonas (UEA), formada em um curso técnico de Informática pelo Insituto Federal do Amazonas (IFAM) e atualmente sou residente em AR/VR no Insituto Eldorado.</p>
 
 ###
 
