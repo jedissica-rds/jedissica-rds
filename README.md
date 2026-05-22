@@ -1,7 +1,7 @@
 <h3 align="left">Olá, eu sou a Jessica! 👋</h3>
 
 ###
-<p align="left">Sou estudante de Sistemas de Informação, formada em um curso técnico de Informática e atualmente faço parte da Apple Developer Academy.</p>
+<p align="left">Sou estudante de Sistemas de Informação, formada em um curso técnico de Informática e atualmente sou residente em AR/VR no Insituto Eldorado.</p>
 
 ###
 
